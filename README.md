@@ -1,29 +1,13 @@
-# Udacity Projects
+## Movie Trailer Website
+My final project for "Programming Foundations with Python" under the Full Stack Web Developer Nanodegree [(View on Udacity)](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
 
-## Accessing project files
-### shortname reference
+#
 
-* [`fswb-nd`](#fswb-nd) - Full Stack Web Developer Nanodegree [(View on Udacity)](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+### Project overview
+Built with Python, this project makes use of classes, objects, inheritance, and data from the Internet in order to render a website displaying my favorite movies.
 
-### directory structure (for each project)
-```
-├── README
-├── LICENSE
-└── Nanodegree shortname/
-    └── Project directory/
-        └── Project files
-```
-### quick links
-
-#### fswb-nd
-* [Movie Trailer Website - Final Project](#movie-trailer-website---final-project)
-
-# 
-# Movie Trailer Website - Final Project
-#### Built with Python, this project makes use of classes, objects, inheritance, and data from the Internet in order to render a website displaying my favorite movies.
-
-## Summary
-`media.py`  
+### Summary
+`media.py`
 Contains main classes for all instances of media
 * `Video` class contains common instance variables
 * `Movie` class inherits from `Video` class and instantiates movie-specific variables
@@ -40,7 +24,7 @@ Contains instructions to render an HTML page to display data
 
 _Movie information from [IMDb](http://www.imdb.com/), trailers from [YouTube](https://www.youtube.com)_
 
-## Running the project
+### Running the project
 _Procedures may vary for non-Windows platforms_
 #### Initial steps
 1. Please make sure you have [Python v2.7.*](https://www.python.org/downloads/release/python-2711/) installed and configured on your machine
