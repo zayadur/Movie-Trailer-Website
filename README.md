@@ -33,10 +33,12 @@ _Procedures may vary for non-Windows platforms_
 
 #### IDLE (Python GUI) instructions
 1. Open IDLE
-2. Click on `File > Open` and open the 3 `*.py` modules under `fswb-nd/final_projects/movie_trailer_website/`
+2. Click on `File > Open` and open the 3 `*.py` modules under `Movie-Trailer-Website`
 3. Switch to the `data.py` module window, click on `Run > Run Module`
 
 #### Visual Studio instructions
 1. Clone repository using Visual Studio
+2. Open project solution in Visual Studio
 2. Open the 3 `*.py` modules within the IDE
 3. Run the project, and select `data.py` as the main file
+
