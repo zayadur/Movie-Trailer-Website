@@ -18,7 +18,7 @@ class Movie(Video):
     def __init__(self, title, year, rating, duration, image, description,
                  trailer):
         Video.__init__(self, title, image, description)  # declare instance...
-        #   ... variables from Video class
+        #   variables from Video class
         #  specific instance variables for Movie class
         self.year = year
         self.duration = duration
